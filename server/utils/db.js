@@ -1,6 +1,5 @@
 import mongoose from "mongoose";
 import '../models/pin';
-//import config from '../../etc/config.json'
 
 const Pin = mongoose.model('Pin');
 
